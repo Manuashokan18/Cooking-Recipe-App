@@ -52,7 +52,7 @@ if(item){
            
         </div>
         <div className="video">
-                <iframe src={`https://www.youtube.com/embed/${vId}`} frameborder="0"></iframe>
+                <iframe title='test' src={`https://www.youtube.com/embed/${vId}`} frameborder="0"></iframe>
             </div>
         </>)
     }
